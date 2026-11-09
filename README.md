@@ -7,5 +7,4 @@ Batch scripts and Python utility to rotate vertical/horizontal video files by 90
 - Python 3.x (optional, for Python script)
 
 ## Usage
-- Drag and drop video files onto `rotate_cw.bat` (90° clockwise) or `rotate_ccw.bat` (90° counter-clockwise).
-- Or run `python rotate_video.py` in any directory containing videos.
+- Drag and drop video files onto `rotate_clockwise.bat` (90° clockwise) or `rotate_counter_clockwise.bat` (90° counter-clockwise).
